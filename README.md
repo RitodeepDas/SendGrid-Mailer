@@ -4,7 +4,7 @@
 # SendGrid-Mailer Node.Js
 
 > Easily send emails just by adding an array of emails
-
+<--SendGrid is a popular method of improving email delivery.-->
 
 ## Instructions to run the program
 ```
